@@ -1,0 +1,11 @@
+.hero {
+  margin-top: 60px;
+}
+
+.banner-slider-container {
+  cursor: pointer;
+}
+
+.slick-arrow {
+  display: none !important;
+}

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "3RZ+JCdj6PYz2dnIA1VYPwqPz+CwkdSKh9G8TScE8ko=",
+  "Source": "User",
+  "BasePath": "_content/User",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "User\\wwwroot",
+      "Source": "User",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\DoAn3\\User\\wwwroot\\",
+      "BasePath": "_content/User",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ADMIN\\source\\repos\\DoAn3\\User\\wwwroot\\assets\\images\\avatar\\638525895772602499-cate13.jpg",
+      "SourceId": "User",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\source\\repos\\DoAn3\\User\\wwwroot\\",
+      "BasePath": "_content/User",
+      "RelativePath": "assets/images/avatar/638525895772602499-cate13.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\avatar\\638525895772602499-cate13.jpg"
+    }
+  ]
+}

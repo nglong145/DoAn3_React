@@ -1,0 +1,8 @@
+.adminLogin .loginForm-container {
+  margin: 0 300px;
+}
+
+.adminLogin .loginForm-container h1 {
+  text-align: center;
+  margin: 20px 0 30px;
+}

@@ -1,0 +1,6 @@
+@Admin_HostAddress = http://localhost:5205
+
+GET {{Admin_HostAddress}}/
+Accept: application/json
+
+###

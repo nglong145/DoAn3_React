@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\DoAn3\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+C:\Users\ADMIN\source\repos\DoAn3\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\ADMIN\source\repos\DoAn3\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\ADMIN\source\repos\DoAn3\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\ADMIN\source\repos\DoAn3\BusinessLogicLayer\bin\Debug\net8.0\DataModel.dll
+C:\Users\ADMIN\source\repos\DoAn3\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\ADMIN\source\repos\DoAn3\BusinessLogicLayer\bin\Debug\net8.0\DataModel.pdb
+C:\Users\ADMIN\source\repos\DoAn3\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\DoAn3\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\DoAn3\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\DoAn3\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\DoAn3\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\DoAn3\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\DoAn3\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\ADMIN\source\repos\DoAn3\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+C:\Users\ADMIN\source\repos\DoAn3\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\ADMIN\source\repos\DoAn3\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll

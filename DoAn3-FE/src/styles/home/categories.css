@@ -1,0 +1,24 @@
+.categories {
+  margin: 30px 40px;
+}
+
+.categories h1 {
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.categories-title {
+  text-align: center;
+  margin: 10px 0 20px;
+}
+
+.categories .container .categories-table {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  text-align: center;
+  gap: 20px;
+}
+
+.categories-table .category-item img {
+  width: 350px;
+}

@@ -1,0 +1,27 @@
+.blogSection {
+  margin: 20px 50px;
+}
+
+.blogSection .container h1 {
+  text-transform: uppercase;
+  font-weight: 600;
+  text-align: center;
+  margin: 50px 0 20px;
+}
+
+.BoxImage,
+.BoxImage img {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.blogSection a {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 700;
+  color: rgba(0, 0, 0);
+}
+
+.BoxText {
+  padding: 10px 2px;
+}

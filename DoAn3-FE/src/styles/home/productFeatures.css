@@ -1,0 +1,78 @@
+.productFeatures .container .features-title {
+  text-align: center;
+}
+
+.productFeatures h1 {
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.features-product {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.product-list {
+  display: grid;
+  grid-template-columns: repeat(4, 270px);
+  gap: 10px;
+}
+
+.productItem {
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.features-product .productItem .productItem-top {
+  height: 170px;
+  padding: 20px;
+  border: solid 1px #f0eeee;
+  border-radius: 12px;
+  margin-bottom: 15px;
+  overflow: hidden;
+}
+
+.productItem-top img {
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.features-product .productItem-bot,
+.features-product .product-info {
+  width: 100%;
+  display: block;
+  padding: 0;
+}
+
+.features-product .product-info p a {
+  width: 100%;
+  display: block;
+  font-size: 15px;
+  line-height: 25px;
+}
+
+.features-product .product-info a:hover {
+  color: rgb(0, 113, 227);
+}
+
+.features-product .priceCart {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.features-product .priceCart span {
+  font-weight: 600;
+}
+
+.features-product .priceCart .cartButton {
+  margin: 5px 15px;
+  cursor: pointer;
+}
+
+.features-product .priceCart .cartButton:hover {
+  color: rgb(6, 235, 94);
+}

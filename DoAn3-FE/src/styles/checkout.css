@@ -1,0 +1,126 @@
+.checkoutSection {
+  width: 1135px;
+  margin: 0 40px 50px;
+  overflow-x: hidden;
+}
+
+.checkoutSection .container .formCheckout {
+  display: flex;
+  gap: 50px;
+}
+
+.checkoutSection .container .infoCheckout-wrapper {
+  width: 53%;
+  margin-right: 5px;
+}
+
+.checkoutSection .container .infoBill-wrapper {
+  border: 2px solid rgb(68, 96, 132);
+  padding: 15px 20px 30px;
+  width: 42%;
+}
+
+.infoCheckout-wrapper .infoPayment h1 {
+  margin-bottom: 10px;
+}
+
+.infoCheckout-wrapper .infoPayment > input {
+  width: 100%;
+  padding: 5px 10px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.multiLabel,
+.multiInput {
+  display: flex;
+  gap: 25px;
+}
+
+.multiLabel label,
+.multiInput label {
+  width: 317px;
+  margin-bottom: 5px;
+}
+
+.multiLabel input,
+.multiInput input {
+  padding: 5px 10px;
+  width: 317px;
+  margin-bottom: 10px;
+}
+
+.infoBonus h1 {
+  margin: 30px 0 10px;
+}
+
+.infoBonus textarea {
+  width: 100%;
+  margin-top: 5px;
+}
+
+.infoBill table {
+  border-collapse: none;
+}
+
+.infoBill table tr {
+  margin: 5px;
+}
+
+.infoBill table th {
+  padding: 7px 7px 7px 0;
+  text-align: left;
+  border-bottom: 3px solid rgb(236, 236, 236);
+}
+
+.infoBill table th:first-child {
+  width: 310px;
+}
+
+.infoBill table td {
+  padding: 7px 7px 7px 0;
+  border-bottom: 1px solid rgb(236, 236, 236);
+}
+
+.infoBill tbody td:last-child {
+  text-align: center;
+}
+
+.infoBill tfoot td:last-child,
+.infoBill tfoot th:last-child {
+  text-align: center;
+}
+.infoBill-wrapper button {
+  margin: 20px 0;
+  padding: 8px 18px;
+  text-transform: uppercase;
+  background-color: rgb(210, 110, 75);
+  border-color: transparent;
+  color: rgb(236, 236, 236);
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.infoBill-wrapper button:hover {
+  background-color: rgb(165, 90, 62);
+}
+
+.infoBonus textarea {
+  padding: 5px 10px;
+  outline: none;
+}
+
+.payment ul {
+  list-style: none;
+  margin: 20px 0;
+}
+
+.payment ul li {
+  margin: 5px 0;
+  display: flex;
+  gap: 10px;
+}
+
+.payment ul li input {
+  width: 20px;
+}

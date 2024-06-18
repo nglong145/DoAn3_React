@@ -1,0 +1,22 @@
+.order-admin,
+.import-admin {
+  margin: 10px 50px;
+}
+
+.importModal,
+.orderModal {
+  width: 800px !important;
+}
+
+.importModal .importTable th:first-child,
+.orderModal .orderTable th:first-child {
+  width: 300px;
+}
+
+.orderModal .orderTable img {
+  width: 100px;
+}
+
+.importModal .importTable th:nth-child(4) {
+  width: 80px;
+}

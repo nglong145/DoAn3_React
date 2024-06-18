@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\DoAn3\DataModel\bin\Debug\net8.0\DataModel.deps.json
+C:\Users\ADMIN\source\repos\DoAn3\DataModel\bin\Debug\net8.0\DataModel.dll
+C:\Users\ADMIN\source\repos\DoAn3\DataModel\bin\Debug\net8.0\DataModel.pdb
+C:\Users\ADMIN\source\repos\DoAn3\DataModel\obj\Debug\net8.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\DoAn3\DataModel\obj\Debug\net8.0\DataModel.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\DoAn3\DataModel\obj\Debug\net8.0\DataModel.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\DoAn3\DataModel\obj\Debug\net8.0\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\DoAn3\DataModel\obj\Debug\net8.0\DataModel.dll
+C:\Users\ADMIN\source\repos\DoAn3\DataModel\obj\Debug\net8.0\refint\DataModel.dll
+C:\Users\ADMIN\source\repos\DoAn3\DataModel\obj\Debug\net8.0\DataModel.pdb
+C:\Users\ADMIN\source\repos\DoAn3\DataModel\obj\Debug\net8.0\ref\DataModel.dll

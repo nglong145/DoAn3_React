@@ -1,0 +1,136 @@
+.login {
+  margin-top: 60px;
+  width: 100%;
+  padding: 20px 0;
+  color: rgb(33, 37, 41);
+}
+
+.login .container .content {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.login .content .login-part {
+  width: 450px;
+  padding: 30px 0 50px;
+}
+
+.login .content h1 {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.login-part form {
+  font-size: 22px;
+  padding: 15px 25px;
+  display: flex;
+  flex-direction: column;
+}
+
+.login-part form label {
+  margin-bottom: 8px;
+}
+
+.login .content input {
+  width: 100%;
+  border: rgb(206, 212, 218) 1px solid;
+  padding: 10px 18px;
+  font-size: 18px;
+  outline: none;
+  margin-bottom: 15px;
+}
+
+.login-part form .error {
+  margin: -10px 0 15px;
+  color: red;
+}
+
+.login-part .form-bot {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  font-size: 17px;
+  margin: 10px 0;
+}
+
+.login-part .form-bot a {
+  width: 250px;
+  color: rgb(0, 0, 0);
+  text-align: end;
+}
+
+.login-part .form-bot a:hover {
+  color: #0056b3;
+}
+
+.form-bot .checkbox-remmember {
+  display: flex;
+  gap: 10px;
+  width: 350px;
+}
+
+.form-bot .checkbox-remmember input {
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+  margin-left: 0;
+  margin-top: 3px;
+}
+
+.login-part button {
+  padding: 15px 10px;
+  font-size: 15px;
+  width: 100%;
+  color: rgb(255, 255, 255);
+  background-color: rgb(51, 51, 51);
+  text-transform: uppercase;
+  cursor: pointer;
+  border: none;
+}
+
+.login-part button:hover {
+  opacity: 0.85;
+}
+
+.linkRegister {
+  font-size: 15px;
+  border: 1px solid rgb(51, 51, 51);
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+
+.connectButton {
+  margin: 40px 0;
+  position: relative;
+}
+
+.connectButton hr {
+  height: 1px;
+}
+
+.connectButton div {
+  background-color: #fff;
+  padding: 2px 5px;
+  position: absolute;
+  top: -17px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.linkRegister a {
+  padding: 15px 10px;
+  text-align: center;
+  width: 100%;
+  text-decoration: none;
+  color: rgb(33, 33, 33);
+  background-color: #fff;
+}
+
+.linkRegister:hover,
+.linkRegister:hover a {
+  background-color: rgb(51, 51, 51);
+  color: #fff;
+}

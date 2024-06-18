@@ -1,0 +1,22 @@
+footer {
+  background-color: rgb(225, 229, 248);
+}
+
+footer .container {
+  margin: 0 50px;
+  padding: 15px 0;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+footer .container h3 {
+  line-height: 30px;
+}
+
+footer .container .info {
+  margin-right: 35px;
+}
+
+footer .container .policy {
+  margin-left: 35px;
+}

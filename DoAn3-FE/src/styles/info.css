@@ -1,0 +1,49 @@
+.title {
+  margin-bottom: 5px;
+}
+
+hr {
+  width: 15%;
+  height: 1px;
+  border: none;
+  background-color: #000;
+}
+
+.boxDetail,
+.boxForm {
+  margin: 20px 0;
+}
+
+.profileInfo table tr td {
+  width: 150px;
+  padding: 3px 0;
+}
+
+.profileInfo table tr td:last-child {
+  width: 600px;
+}
+
+input {
+  width: 600px;
+  border: rgb(206, 212, 218) 1px solid;
+  padding: 8px 18px;
+  font-size: 18px;
+  outline: none;
+}
+
+.formChangePass .boxForm tr td:first-child {
+  width: 200px;
+}
+
+.formChangePass .boxForm input {
+  width: 550px;
+}
+
+.boxForm button {
+  position: relative;
+  left: 610px;
+  padding: 10px 15px;
+  margin-top: 20px;
+  cursor: pointer;
+  color: rgb(76, 76, 76);
+}

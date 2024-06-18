@@ -1,0 +1,26 @@
+.product-admin {
+  margin-left: 50px;
+}
+
+.product-admin thead .ant-table-cell:not(:nth-child(3)) {
+  text-align: center;
+}
+
+.product-admin .ant-table-thead .ant-table-cell:nth-child(3),
+.product-admin .ant-table-body .ant-table-cell:nth-child(3) {
+  width: 350px;
+}
+
+.product-admin .ant-table-thead .ant-table-cell:nth-child(4),
+.product-admin .ant-table-body .ant-table-cell:nth-child(4) {
+  width: 180px;
+}
+
+.product-admin table tr td img {
+  margin-left: 50px;
+}
+
+.product-admin .ant-table-thead .ant-table-cell:last-child,
+.product-admin .ant-table-body .ant-table-cell:last-child {
+  width: 180px;
+}

@@ -1,0 +1,104 @@
+.shopProduct-section {
+  margin-left: 15px;
+}
+
+.shopProduct-section .list-product {
+  display: grid;
+  grid-template-columns: repeat(3, 265px);
+  gap: 20px;
+}
+
+.shopProduct-section .product-item {
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.shopProduct-section .productItem-image {
+  background-color: white;
+  height: 170px;
+  padding: 10px;
+  border: solid 1px #f0eeee;
+  border-radius: 12px;
+  margin-bottom: 15px;
+  overflow: hidden;
+}
+
+.shopProduct-section .productItem-image img {
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.shopProduct-section .productItem-title,
+.shopProduct-section .product-info {
+  width: 100%;
+  display: block;
+  padding: 0;
+}
+
+.shopProduct-section .productItem-title p a {
+  width: 100%;
+  display: block;
+  font-size: 15px;
+  line-height: 25px;
+}
+
+.shopProduct-section .productItem-title p a:hover {
+  color: rgb(0, 113, 227);
+}
+
+.shopProduct-section .priceCart {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.shopProduct-section .priceCart span {
+  font-weight: 600;
+}
+
+.shopProduct-section .priceCart .cartButton {
+  margin: 5px 15px;
+  cursor: pointer;
+}
+
+.shopProduct-section .priceCart .cartButton:hover {
+  color: rgb(6, 235, 94);
+}
+
+.shopProduct-section .pagination {
+  height: auto;
+  width: 100%;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.shopProduct-section .pagination ul {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  list-style: none;
+}
+
+.shopProduct-section .pagination a {
+  cursor: pointer;
+  border-radius: 50%;
+  padding: 7px 14px;
+  font-weight: 600;
+  border: 1px solid #dbdbdb;
+  background-color: white;
+  font-size: 14px;
+  border: none;
+}
+
+.shopProduct-section .pagination a:hover {
+  background-color: #00a2ff;
+  color: white;
+}
+
+.shopProduct-section .active-page {
+  color: white;
+  background-color: #00a2ff !important;
+  box-shadow: none;
+}

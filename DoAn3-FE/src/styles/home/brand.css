@@ -1,0 +1,41 @@
+.brandFeatures {
+  margin: 30px 40px;
+  text-align: center;
+}
+
+.brandFeatures h1 {
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.brand-list {
+  margin-top: 30px;
+  display: grid;
+  column-gap: 30px;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.brand-list .brandItem {
+  width: 250px;
+  height: 250px;
+  overflow: hidden;
+}
+
+.brandItem .brandItem-top {
+  padding: 15px;
+  width: 100%;
+  height: 200px;
+  border: 1px solid rgb(240, 238, 238);
+  border-radius: 10px;
+}
+
+.brandItem .brandItem-top img {
+  width: 100%;
+  height: 100%;
+}
+
+.brandItem .brandItem-bot {
+  margin: 5px 0;
+  text-align: center;
+  font-size: 16px;
+}

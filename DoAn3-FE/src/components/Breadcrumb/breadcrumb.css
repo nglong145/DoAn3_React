@@ -1,0 +1,29 @@
+.breadcrumb-section {
+  padding-top: 10px;
+  margin: 50px 40px 0;
+}
+
+.breadcrumb-section .pageTitle {
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.breadcrumb-section .pageTitle h1 {
+  text-transform: uppercase;
+}
+
+.path a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+
+.path a:hover {
+  color: rgb(9, 124, 255);
+}
+
+.path .icon {
+  margin: 0 5px;
+  position: relative;
+  top: 4px;
+}

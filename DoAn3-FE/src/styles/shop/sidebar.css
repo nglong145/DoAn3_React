@@ -1,0 +1,51 @@
+.sidebar-section {
+  margin: 0px 40px;
+  padding: 20px 15px;
+  width: 250px;
+  border: 1px solid #b3b3b3;
+}
+
+.sidebar-section hr {
+  background-color: #b3b3b3;
+  width: 100%;
+  margin: 20px 0;
+}
+
+.sidebar-section h1 {
+  margin-bottom: 20px;
+}
+
+.tableSize {
+  display: grid;
+  grid-template-columns: repeat(3, 50px);
+  row-gap: 5px;
+  column-gap: 10px;
+}
+
+.tableSize .sizeItem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 10px;
+  border: 2px solid #b3b3b3;
+}
+
+.tableSize .sizeItem a {
+  text-decoration: none;
+  color: #000;
+}
+
+.listPrice label,
+.listBrand label {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.listPrice input,
+.listBrand input {
+  margin-right: 10px;
+  width: 17px;
+  height: 17px;
+}
